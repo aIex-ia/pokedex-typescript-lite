@@ -50,7 +50,7 @@ Antes de executar o projeto, é necessário ter instalado:
 Clone o repositório:
 
 ```bash
-git clone LINK_DO_REPOSITORIO
+git clone https://github.com/aIex-ia/pokedex-typescript-lite.git
 ```
 
 Acesse a pasta do projeto:
@@ -223,7 +223,7 @@ Foram criadas classes para separar responsabilidades:
 Link do Kanban:
 
 ```text
-COLE_AQUI_O_LINK_DO_KANBAN
+https://trello.com/invite/b/6a25bc66eae0e06c5c9ce4ca/ATTI52f3db5af76f66a3cf7b2c85f0c2357fC5EEE13F/projeto-pokedex-typescript
 ```
 
 Colunas utilizadas:
